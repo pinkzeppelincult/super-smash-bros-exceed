@@ -14,11 +14,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Kirby: Replace placeholder art
 
-### [0.2.0] - 2026-09-18
+## [0.2.0] - Pending
 
 #### Changed
 
-- Kirby: Several changes mostly aimed at giving him a more real advantage state
+- Kirby: Update to v0.8.0: Several changes mostly aimed at giving him a more real advantage state
   - Character Ability: No longer restricted to Initiate
   - Air Drop: Added "Hit: Draw 1. Push 2, then Close up to 2."
   - Stone Smash: Added "You cannot be Pushed or Pulled."
@@ -26,6 +26,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Juggle: Renamed to Insatiable
   - Copy Ability: Targets opponent's hand rather than discard pile; no longer restricted to Specials and Ultras; no longer grants +1 Power
   - Squish Down: Gauges itself at end of next turn rather than on After
+
+## [0.1.1] - 2026-09-18
 
 #### Removed
 
@@ -36,7 +38,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### Added
 
 - Kirby v0.7.0
-
 - Jigglypuff v0.7.1
 
 #### Changed
