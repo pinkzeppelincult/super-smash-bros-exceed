@@ -6,15 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-#### Add
-
-- TTS Objects
-
 #### Change
 
-- Kirby: Replace placeholder art
+- Kirby: Update to v0.9.0
+- Fox: Update to v0.17.0
 
-## [0.2.0] - Pending
+## [0.2.0] - 2026-09-19
 
 #### Changed
 
