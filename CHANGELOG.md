@@ -10,6 +10,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fox: Update to v0.17.0.
 
+## [0.4.0] - 2026-09-22
+
+#### Changed
+
+- Kirby: Update to v0.10.0: Tweaks to increase reward for using UA.
+  - Character Ability: Bonus power now triggers even if the opponent is pushed exactly to the edge of the arena and no further.
+  - Burning: Speed 2 → 3.
+  - Inhale: "Hit: Pull until the opponent is at Range 1, then Push or Pull 1 or 2." → "Hit: Pull until the opponent is at Range 1, then Push or Pull until the opponent is at Range 3."
+  - Ultra Sword: New art.
+  - Cardback: Fixed outdated color scheme.
+
 ## [0.3.0] - 2026-09-21
 
 #### Changed
