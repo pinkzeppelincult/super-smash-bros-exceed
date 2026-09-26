@@ -23,11 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Speed 2 → 3.
     - Retouched art to better match other cards.
   - **Inhale:**
-    - > Hit: Pull until the opponent is at Range 1, then Push or Pull 1 or 2.
-
-      →
-
-      > Hit: Pull until the opponent is at Range 1, then Push or Pull until the opponent is at Range 3.
+    - Hit effect now Pushes/Pulls to Range 3 rather than 1 or 2 spaces.
   - **Hammer Flip:**
     - New art.
   - **Ultra Sword:**
@@ -52,7 +48,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### Changed
 
 - **Kirby:**
-  -  **Updated to v0.8.0:**
+  - **Updated to v0.8.0:**
     - Several changes mostly aimed at giving him a more real advantage state.
   - **Character Ability:**
     - No longer restricted to Initiate.
