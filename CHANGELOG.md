@@ -29,6 +29,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - **Ultra Sword:**
     - Speed 5 → 4.
     - New art.
+  - **Spike:**
+    - New art.
   - **Cardback:**
     - Fixed outdated color scheme.
 
