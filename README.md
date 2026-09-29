@@ -1,8 +1,8 @@
 # Character Status:
 
-| <u>Character</u> | <u>Added</u> | <u>Updated</u> | <u>Version</u> | <u>Testing Status</u> |
-| ---------------- | ------------ | -------------- | -------------- | --------------------- |
-| **Fox**          | 2025-10-14   | 2025-11-24     | 0.16.0         | Design - Alpha        |
-| **Jigglypuff**   | 2025-10-26   | 2025-11-09     | 0.7.1          | Design - Alpha        |
-| **Kirby**        | 2025-11-15   | 2026-09-28     | 0.10.0         | Design - Alpha        |
-| **Mario**        | 2025-10-14   | 2025-10-15     | 0.11.0         | Design - Alpha        |
+| <u>Character</u>                                                                                                   | <u>Testing Status</u> | <u>Updated</u> | <u>Added</u> | <u>Version</u> |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------- | -------------- | ------------ | -------------- |
+| **[Fox](https://github.com/pinkzeppelincult/super-smash-bros-exceed/tree/main/character-files/fox)**               | Design - Alpha        | 2025-11-24     | 2025-10-14   | 0.16.0         |
+| **[Jigglypuff](https://github.com/pinkzeppelincult/super-smash-bros-exceed/tree/main/character-files/jigglypuff)** | Design - Alpha        | 2025-11-09     | 2025-10-26   | 0.7.1          |
+| **[Kirby](https://github.com/pinkzeppelincult/super-smash-bros-exceed/tree/main/character-files/kirby)**           | Design - Alpha        | 2026-09-28     | 2025-11-15   | 0.10.0         |
+| **[Mario](https://github.com/pinkzeppelincult/super-smash-bros-exceed/tree/main/character-files/mario)**           | Design - Alpha        | 2025-10-15     | 2025-10-14   | 0.11.0         |
