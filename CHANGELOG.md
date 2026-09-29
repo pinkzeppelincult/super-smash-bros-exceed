@@ -10,6 +10,40 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fox: Update to v0.17.0.
 
+## [0.5.0] - 2026-09-28
+
+#### Changed
+
+- **Kirby:**
+  - **Updated to v0.11.0:**
+    - Balance and flavor adjustments.
+  - **Back Kick:**
+    - Power 3 → 2.
+    - "Hit: Pull up to 2" → "Charge 1, Hit: Gain Advantage."
+  - **Inhale:**
+    - Range 1–3 → 1–2.
+  - **Final Cutter:**
+    - Range 1–4 → 1–3.
+  - **Hammer Flip:**
+    - "Ignore Armor" → "Charge 1, Hit: Ignore Armor."
+  - **Shorthop:**
+    - "Now Advance up to 1" → "Now: Advance or Retreat up to 1."
+  - **Tilt Attack:**
+    - Removed.
+  - **Juggle:**
+    - Moved from Inhale to Back Kick.
+  - **Shield Stop:**
+    - New Boost for Inhale.
+
+      > Shield Stop (1F)
+      >
+      > +2 Armor
+      >
+      > Now: Close 2.
+  - **Jump In:**
+    - Renamed to Star Warrior.
+    - "Advance 1. Draw 3." → "Draw 3. Strike."
+
 ## [0.4.0] - 2026-09-26
 
 #### Changed
