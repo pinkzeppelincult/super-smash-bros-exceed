@@ -10,6 +10,57 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fox: Update to v0.17.0.
 
+## [0.6.0] - 2026-10-02
+
+#### Changed
+
+- **Kirby:**
+  - **Updated to v0.12.0:**
+    - Revamped boost kit to discourage early rushdown gameplan.
+  - **Character Ability:**
+    - Exceed Cost 3 → 4.
+    - Added "When you Exceed, Draw 2."
+  - **Back Kick:**
+    - Power 2 → 3.
+  - **Final Cutter:**
+    - Armor 0 → 1.
+    - Guard 5 → 4.
+  - **Stone Smash:**
+    - Range 1 → 1–2.
+    - Power 6 → 5.
+    - Armor 2 → 3.
+    - "Before: Close 1." → "After: Lose all Armor."
+  - **Shorthop:** 
+    - Removed.
+  - **Juggle (Old):**
+    - Removed.
+  - **Float:**
+    - Burning → Air Drop.
+  - **Shield Stop:**
+    - 1F → 0F.
+    - +2 Armor → +1 Armor and +3 Guard.
+    - "Now: Close 2" → "Now: Spend up to 2 Force to Close that many spaces."
+  - **Star Warrior:**
+    - Removed.
+  - **Oblivious:**
+    - New boost for Back Kick.
+
+      > Oblivious (1F)
+      > Stun Immunity.
+      > Now: You may discard a Continuous Boost from play.
+  - **Snack Time:**
+    - New boost for Burning.
+
+      > Snack Time (0F)
+      > Now: Draw 2.
+      > Before: If you were hit, add this to your Gauge.
+  - **Juggle (New):**
+    - New boost for Final Cutter.
+
+      > Juggle (0F)
+      > Now: If you are in Exceed Mode, Strike.
+      > Hit: Push, Pull, Advance, or Retreat 1. Gain Advantage.
+
 ## [0.5.0] - 2026-09-28
 
 #### Changed
@@ -31,14 +82,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - **Tilt Attack:**
     - Removed.
   - **Juggle:**
-    - Moved from Inhale to Back Kick.
+    - Inhale → Back Kick.
   - **Shield Stop:**
     - New Boost for Inhale.
 
       > Shield Stop (1F)
-      >
       > +2 Armor
-      >
       > Now: Close 2.
   - **Jump In:**
     - Renamed to Star Warrior.
