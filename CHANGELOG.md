@@ -10,9 +10,66 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fox: Update to v0.17.0.
 
+## [0.7.0] - 2026-10-03
+
+### Changed
+
+- **Kirby:**
+  - **Updated to v0.13.0:**
+    - Adjustments to reduce noncommittal movement and improve defensive options.
+  - **Burning:**
+    - Power 3 → 1.
+    - Guard 4 → 5.
+    - "Before: Close 2. **+2 Power** for each space you couldn't Close." → "Before: Close 2. **+3 Power** for each space you couldn't Close."
+  - **Inhale:**
+    - Added "After: If this did not hit, Pull 1."
+  - **Final Cutter:**
+    - New art.
+    - Reworked into a Special.
+
+      > Final Cutter (2G)
+      >
+      > 1-3/3/2/1/4
+      >
+      > Attacks at Range 4+ do not hit you.
+      >
+      > Before: If the opponent is at Range 1 or 2, +2 Power. Then, Advance up to 2.
+
+      →
+
+      > Final Cutter
+      >
+      > 1-2/2/5/-/3
+      >
+      > Attacks at Range 5+ do not hit you.
+      >
+      > Before: If the opponent is at Range 1–2, +2 Power. Then, Advance up to 2.
+  - **Stone Smash:**
+    - Power 5 → 6.
+  - **Float:**
+    - Moved from Air Drop → Back Kick.
+  - **Oblivious:**
+    - Moved from Back Kick → Final Cutter.
+  - **Snack Time:**
+    - Moved from Burning → Air Drop.
+  - **Juggle:**
+    - Removed.
+  - **Star Warrior:**
+    - New boost for Burning.
+
+      > Star Warrior (0F)
+      >
+      > +1 Power and +1 Speed
+      >
+      > Now: If you are in Exceed Mode, Strike.
+  - **Grasp:**
+    - New art.
+  - **Assault:**
+    - New art.
+
 ## [0.6.0] - 2026-10-02
 
-#### Changed
+### Changed
 
 - **Kirby:**
   - **Updated to v0.12.0:**
@@ -35,7 +92,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - **Juggle (Old):**
     - Removed.
   - **Float:**
-    - Burning → Air Drop.
+    - Moved from Burning → Air Drop.
   - **Shield Stop:**
     - 1F → 0F.
     - +2 Armor → +1 Armor and +3 Guard.
@@ -46,24 +103,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - New boost for Back Kick.
 
       > Oblivious (1F)
+      >
       > Stun Immunity.
+      >
       > Now: You may discard a Continuous Boost from play.
   - **Snack Time:**
     - New boost for Burning.
 
       > Snack Time (0F)
+      >
       > Now: Draw 2.
+      >
       > Before: If you were hit, add this to your Gauge.
   - **Juggle (New):**
     - New boost for Final Cutter.
 
       > Juggle (0F)
+      >
       > Now: If you are in Exceed Mode, Strike.
+      >
       > Hit: Push, Pull, Advance, or Retreat 1. Gain Advantage.
 
 ## [0.5.0] - 2026-09-28
 
-#### Changed
+### Changed
 
 - **Kirby:**
   - **Updated to v0.11.0:**
@@ -95,7 +158,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.4.0] - 2026-09-26
 
-#### Changed
+### Changed
 
 - **Kirby:** 
   - **Updated to v0.10.0:**
@@ -119,7 +182,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.0] - 2026-09-21
 
-#### Changed
+### Changed
 
 - **Kirby:**
   - **Updated to v0.9.0:**
@@ -130,7 +193,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.0] - 2026-09-19
 
-#### Changed
+### Changed
 
 - **Kirby:**
   - **Updated to v0.8.0:**
@@ -158,18 +221,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.1] - 2026-09-18
 
-#### Removed
+### Removed
 
 - Extraneous Jigglypuff costume images.
 
 ## [0.1.0] - 2026-09-17
 
-#### Added
+### Added
 
 - Kirby v0.7.0.
 - Jigglypuff v0.7.1.
 
-#### Changed
+### Changed
 
 - **General:**
   - Reorganized project files for better clarity and maintainability.
