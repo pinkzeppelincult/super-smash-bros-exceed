@@ -6,9 +6,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-#### Change
+### Change
 
 - Fox: Update to v0.17.0.
+
+## [0.8.0] - 2026-10-03
+
+### Changed
+
+- **Kirby:**
+  - **Updated to v0.14.0:**
+    - Adjustments to further discourage nonspecific early aggression and improve advantage state in the corner.
+  - **Air Drop:**
+    - Speed 4 → 3.
+    - Removed "Hit: The opponent must discard a random card."
+    - Added "Charge 1, Before: Close 1."
+  - **Burning:**
+    - Revert power scaling nerf from v0.13.0.
+  - **Final Cutter:**
+    - Power 2 → 3.
+    - Removed "Attacks at Range 5+ do not hit you."
+    - Added "Charge 1: +2 Speed."
+    - New art.
+  - **Assault:**
+    - New art.
 
 ## [0.7.0] - 2026-10-03
 
@@ -22,9 +43,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Guard 4 → 5.
     - "Before: Close 2. **+2 Power** for each space you couldn't Close." → "Before: Close 2. **+3 Power** for each space you couldn't Close."
   - **Inhale:**
-    - Added "After: If this did not hit, Pull 1."
+    - "Hit: Pull until the opponent is at Range 1, then Push or Pull until the opponent is at Range 3" → "Hit: Push or Pull until the opponent is at Range 3."
+    - Added "After: If this did not hit, Pull 1."
   - **Final Cutter:**
     - New art.
+
     - Reworked into a Special.
 
       > Final Cutter (2G)
