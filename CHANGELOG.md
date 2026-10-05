@@ -6,9 +6,44 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Change
+## [0.9.0] - 2026-10-05
 
-- Fox: Update to v0.17.0.
+### Changed
+
+- **Kirby:**
+  - **Updated to v0.15.0:**
+    - Rearrange boost kit to mesh better with attacks and make neutral less awkward.
+  - **Inhale:**
+    - Revised effects.
+
+      > Hit: Push or Pull until the opponent is at Range 3.
+      >
+      > After: If this did not hit, Pull 1.
+
+      →
+
+      > Charge 1, Hit: Choose one:
+      >
+      > • Pull up to 3.
+      >
+      > ⹀ Add a random card from the opponent's hand to your Gauge.
+  - **Snack Time:**
+    - Moved from Air Drop → Burning.
+    - Renamed to Snack Time!
+  - **Float:**
+    - Moved from Back Kick → Air Drop.
+  - **Star Warrior:**
+    - Moved from Burning → Back Kick.
+  - **Copy Ability:**
+    - Removed.
+  - **Wall of Pain:**
+    - New boost for Stone Smash.
+
+      > Wall of Pain (0F)
+      >
+      > Charge 1, Hit: Draw 1. Retreat up to 1. Sustain this.
+  - **Final Cutter:**
+    - Reverted art from v0.14.0 to v0.13.0.
 
 ## [0.8.0] - 2026-10-03
 
