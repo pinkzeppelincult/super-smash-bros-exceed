@@ -6,6 +6,83 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.10.0] - 2026-11-09
+
+### Changed
+
+- **Kirby:**
+  - **Updated to v0.16.0:**
+    - Revise character ability and boost kit to better match source gameplay.
+  - **Character Ability:**
+    - Reworked.
+
+      > Kirby (4G)
+      >
+      > Charge 1, Hit: Push 2, then Close 2. If the opponent is at the edge of the arena, +1 Power.
+      >
+      > \\\\\
+      >
+      > Kirby (Exceed Mode)
+      >
+      > When you Exceed, Draw 2.
+      >
+      > Charge 1, Hit: Push 2, then Close 2. If the opponent is at the edge of the arena, +3 Power.
+
+      →
+
+      > Kirby (3G)
+      >
+      > Charge 1, Hit: Push 2, then Close 1 or 2. If the opponent is at the edge of the arena, Draw 2.
+      >
+      > \\\\\
+      >
+      > Kirby (Exceed Mode)
+      >
+      > Charge 1, Hit: Push 2, then Close 1 or 2. If the opponent is at the edge of the arena, Draw 2 and the opponent must discard a card.
+  - **Burning:**
+    - Power 3 → 2.
+  - **Shield Stop:**
+    - Moved from Inhale → Air Drop.
+    - "Now: Spend up to 2 Force. For each Force spent, Close 1." → "Now: You may spend 1 Force. If you do, Close 1."
+  - **Snack Time!:**
+    - Moved from Burning → Back Kick.
+  - **Float:**
+    - Moved from Air Drop → Burning.
+  - **Juggle:**
+    - New boost for Inhale.
+
+      > Juggle (1F)
+      >
+      > Now: Strike.
+      >
+      > Hit: +1 Power. You may Advance or Retreat 1. Gain Advantage.
+  - **Oblivious:**
+    - Reworked.
+
+      > Oblivious (1F)
+      >
+      > Stun Immunity.
+      >
+      > Now: You may discard a Boost from play.
+
+      →
+
+      > Oblivious (0F)
+      >
+      > +1 Speed
+      >
+      > Now: You may spend 1 Force. If you do, discard another Boost from play.
+  - **Squish Down:**
+    - Moved from Hammer Flip → Stone Smash.
+  - **Wall of Pain:**
+    - New boost for Hammer Flip.
+
+      > Wall of Pain (1F)
+      >
+      > Stun Immunity.
+      >
+      > The opponent cannot move past you.
+
 ## [0.9.0] - 2026-10-05
 
 ### Changed
