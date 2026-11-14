@@ -6,6 +6,34 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.11.0] - 2026-11-13
+
+### Changed
+
+- **Kirby:**
+  - **Updated to v0.17.0:**
+    - Tweaks to decrease degeneracy of advantage state.
+  - **Character Ability:**
+    - Exceed mode tack-on revised from "and the opponent must discard a card" → "and +1 Power"
+  - **Burning:**
+    - Numbers adjusted.
+
+      > Burning
+      >
+      > 1/2/3/–/5
+      >
+      > Before: Close 2. For each space you couldn't Close, +2 Power.
+
+      →
+
+      > Burning
+      >
+      > 1/1/3/–/3
+      >
+      > Before: Close 2. For each space you couldn't Close, +3 Power.
+  - **Inhale:**
+    - First Hit effect mode revised from "Pull up to 3" → "Push or Pull 3."
+
 ## [0.10.0] - 2026-11-09
 
 ### Changed
